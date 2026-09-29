@@ -1,6 +1,3 @@
-git init 
-git remote add origin https://github.com/Lexcker/1kt/blob/main/project
-git branch -M main
-git remote -v
+
 
 
